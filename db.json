@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": " fixed 002 hard drive",
+      "attention": false,
+      "tech": "Yonela Ntsangani",
+      "date": "2020-06-29T15:20:13.694Z"
+    },
+    {
+      "id": 2,
+      "message": "space full 003 hard drive",
+      "attention": true,
+      "tech": "Sinothando Bacela",
+      "date": "2020-06-29T15:20:30.269Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Yonela",
+      "lastName": "Ntsangani"
+    },
+    {
+      "id": 2,
+      "firstName": "Sinothando",
+      "lastName": "Bacela"
+    },
+    {
+      "id": 3,
+      "firstName": "Lelethu",
+      "lastName": "Ndidi"
+    }
+  ]
+}
